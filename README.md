@@ -6,5 +6,5 @@ This project was inspired by the following research and was made for the purpose
 For more information, see the HyperlpaseGT.pdf file.
 
 The development environment is as follows.
-1. VS2013
-2. OpenCV 2.4
+  1. VS2013
+  2. OpenCV 2.4
