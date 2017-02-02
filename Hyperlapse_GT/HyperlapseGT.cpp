@@ -56,7 +56,7 @@ void HyperlapseGT::openVideo(string fpath) {
 	}
 }
 
-void HyperlapseGT::setOutputVideoPaTH(string fpath) {
+void HyperlapseGT::setOutputVideoPaTH(string fpath = "./output.avi") {
 	o_fpath = fpath;
 }
 
